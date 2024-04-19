@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "pmit.ju.rakib.app-debug-47:/navigation_nav_graph.xml.flat",
+        "source": "pmit.ju.rakib.app-main-49:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "pmit.ju.rakib.app-debug-47:/layout_activity_main.xml.flat",
+        "source": "pmit.ju.rakib.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "pmit.ju.rakib.app-debug-47:/layout_item_classification_result.xml.flat",
+        "source": "pmit.ju.rakib.app-main-49:/layout/item_classification_result.xml"
+    },
+    {
+        "merged": "pmit.ju.rakib.app-debug-47:/drawable-v24_ju_logo.png.flat",
+        "source": "pmit.ju.rakib.app-main-49:/drawable-v24/ju_logo.png"
+    },
+    {
+        "merged": "pmit.ju.rakib.app-debug-47:/layout_info_bottom_sheet.xml.flat",
+        "source": "pmit.ju.rakib.app-main-49:/layout/info_bottom_sheet.xml"
+    },
+    {
+        "merged": "pmit.ju.rakib.app-debug-47:/drawable_ic_minus.xml.flat",
+        "source": "pmit.ju.rakib.app-main-49:/drawable/ic_minus.xml"
+    },
+    {
+        "merged": "pmit.ju.rakib.app-debug-47:/drawable_icn_chevron_up.png.flat",
+        "source": "pmit.ju.rakib.app-main-49:/drawable/icn_chevron_up.png"
+    },
+    {
+        "merged": "pmit.ju.rakib.app-debug-47:/drawable_ic_plus.xml.flat",
+        "source": "pmit.ju.rakib.app-main-49:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "pmit.ju.rakib.app-debug-47:/layout_fragment_camera.xml.flat",
+        "source": "pmit.ju.rakib.app-main-49:/layout/fragment_camera.xml"
+    }
+]

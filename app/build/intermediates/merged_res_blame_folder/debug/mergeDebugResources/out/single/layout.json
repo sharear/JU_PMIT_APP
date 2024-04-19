@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "pmit.ju.rakib.app-mergeDebugResources-46:/layout/info_bottom_sheet.xml",
+        "source": "pmit.ju.rakib.app-main-49:/layout/info_bottom_sheet.xml"
+    },
+    {
+        "merged": "pmit.ju.rakib.app-mergeDebugResources-46:/layout/item_classification_result.xml",
+        "source": "pmit.ju.rakib.app-main-49:/layout/item_classification_result.xml"
+    },
+    {
+        "merged": "pmit.ju.rakib.app-mergeDebugResources-46:/layout/fragment_camera.xml",
+        "source": "pmit.ju.rakib.app-main-49:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "pmit.ju.rakib.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "pmit.ju.rakib.app-main-49:/layout/activity_main.xml"
+    }
+]
